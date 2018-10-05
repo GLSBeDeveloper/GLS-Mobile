@@ -1,0 +1,81 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com-badrit-base64": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "com-sarriaroman-photoviewer": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-advanced-http": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova.plugins.diagnostic": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "uk.co.workingedge.phonegap.plugin.launchnavigator": {
+      "OKHTTP_VERSION": "3.10.0",
+      "PACKAGE_NAME": "simtech.opms.lml"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-actionsheet": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "simtech.opms.lml"
+    }
+  }
+}
